@@ -9,12 +9,11 @@
       <UniqueIdentifier>{aabd7724-6c0e-44c7-a0f7-ca945bd9afd8}</UniqueIdentifier>
       <Extensions>h;hpp;hxx;hm;inl;inc</Extensions>
     </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{7edcc76a-7c5a-4b3e-8199-3001d79de00a}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;jpg;jpeg;jpe;manifest</Extensions>
-    </Filter>
     <Filter Include="drvlogic">
       <UniqueIdentifier>{8de1a143-1934-46ca-a86a-83c28b4e3695}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{0def6273-047a-4444-a2dc-ca619b8e0be5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
