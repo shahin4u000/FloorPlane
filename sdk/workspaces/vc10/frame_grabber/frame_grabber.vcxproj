@@ -261,6 +261,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\app\frame_grabber\res\rplidar.ico" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="..\..\..\app\frame_grabber\res\Toolbar.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

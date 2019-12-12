@@ -101,7 +101,7 @@ int main(int argc, const char * argv[]) {
 	int n = 0;
 	size_t count = 0;
 	scanDot _scan_Data;
-	ifstream inFile;
+	ofstream writeToFile("scanData_1.txt");
 
     // read serial port from the command line...
     if (argc>1) opt_com_path = argv[1]; 
@@ -179,7 +179,7 @@ int main(int argc, const char * argv[]) {
 
 				//_scan_data.push_back(dot);
 
-				cout << "angle: " << dot.angle << " distance: " << dot.dist << endl;
+				writeToFile << "angle: " << dot.angle << " distance: " << dot.dist << endl;
 			}
 			
 		}
