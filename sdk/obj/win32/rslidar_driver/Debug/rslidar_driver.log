@@ -1,30 +1,30 @@
 ﻿  net_serial.cpp
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
   timer.cpp
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
   thread.cpp
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
   rslidar_driver.cpp
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(130,12): warning C4244: '=': conversion from '_u16' to '_u8', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(336,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(341,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(347,59): warning C4244: '=': conversion from 'float' to '_u16', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(512,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(516,19): warning C4018: '<': signed/unsigned mismatch
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(550,19): warning C4018: '<': signed/unsigned mismatch
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(559,19): warning C4018: '<': signed/unsigned mismatch
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(560,31): warning C4018: '<': signed/unsigned mismatch
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(582,59): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(586,39): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(598,66): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(600,46): warning C4244: '=': conversion from '_u16' to '_u8', possible loss of data
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(604,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(644,30): warning C4018: '>': signed/unsigned mismatch
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(130,12): warning C4244: '=': conversion from '_u16' to '_u8', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(336,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(341,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(347,59): warning C4244: '=': conversion from 'float' to '_u16', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(512,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(516,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(550,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(559,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(560,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(582,59): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(586,39): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(598,66): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(600,46): warning C4244: '=': conversion from '_u16' to '_u8', possible loss of data
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(604,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(644,30): warning C4018: '>': signed/unsigned mismatch
   Generating Code...
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\src\rslidar_driver.cpp(668,21): warning C4018: '<': signed/unsigned mismatch
-  rslidar_driver.vcxproj -> C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\workspaces\vc10\\..\..\output\win32\Debug\rslidar_driver.lib
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\src\rslidar_driver.cpp(668,21): warning C4018: '<': signed/unsigned mismatch
+  rslidar_driver.vcxproj -> C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\workspaces\vc10\\..\..\output\win32\Debug\rslidar_driver.lib

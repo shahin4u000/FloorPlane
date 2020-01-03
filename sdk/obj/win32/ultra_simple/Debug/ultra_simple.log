@@ -1,13 +1,14 @@
 ﻿  main.cpp
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\logfile.h(107,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\logfile.h(107,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\logfile.h(114,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\logfile.h(114,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\logfile.h(134,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\logfile.h(134,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\logfile.h(212,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\logfile.h(212,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
-C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\app\ultra_simple\main.cpp(102,10): warning C4101: '_scan_Data': unreferenced local variable
-  ultra_simple.vcxproj -> C:\Users\kgoni\Desktop\Delta-3A_SDK_Windows(c++)\sdk\workspaces\vc10\\..\..\output\win32\Debug\ultra_simple.exe
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\sdk\include\rslidar_protocol.h(75,22): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\app\ultra_simple\main.cpp(104,10): warning C4101: '_scan_Data': unreferenced local variable
+  LINK : C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\workspaces\vc10\\..\..\output\win32\Debug\ultra_simple.exe not found or not built by the last incremental link; performing full link
+  ultra_simple.vcxproj -> C:\Users\kgoni\Desktop\get-lidarData-into-textFile-cpp\sdk\workspaces\vc10\\..\..\output\win32\Debug\ultra_simple.exe
